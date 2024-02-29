@@ -1,0 +1,26 @@
+body{
+
+    background-image: url(./images/mountain.jpg);
+    background-size:cover;
+}
+    #navbar{
+        display: flex;
+        font-size: xx-large;
+        
+        
+        
+    }
+#Frontpage{
+    text-align: center;
+    font-size: xx-large;
+    
+    
+
+}
+    
+
+
+
+
+
+
