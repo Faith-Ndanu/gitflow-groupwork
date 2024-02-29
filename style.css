@@ -8,7 +8,6 @@ body{
         font-size: xx-large;
         
         
-        
     }
 #Frontpage{
     text-align: center;
@@ -17,6 +16,57 @@ body{
     
 
 }
+.susan{
+    background-color: #1c2e4a;
+    height: 800px;
+}
+
+p{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+    font-size: 250%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h4{
+    color: khaki;
+}
+#form{
+    display: flex;
+    margin: 80px;
+}
+#content{
+    margin: auto;
+    
+
+
+}
+#img{
+    margin-left: 20%;
+    margin-top: 50px;
+  
+}
+    
+
+
+  
+    
+
+    
+    
+
+
+    
+
+
+  
+    
+
+    
+    
+
+
     
 
 
