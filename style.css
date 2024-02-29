@@ -17,7 +17,7 @@ body{
 
 }
 .susan{
-    background-color: #1c2e4a;
+    background-color: #0b1d26;
     height: 800px;
 }
 
@@ -46,6 +46,42 @@ h4{
     margin-left: 20%;
     margin-top: 50px;
   
+}
+
+
+.textImg{
+    display: flex;
+}
+.faith{
+    background-color: #0b1d26;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+    align-content: center;
+
+}
+  
+  /* Create four equal columns */
+.column {
+    flex: 25%;
+    padding: 20px;
+    font-size: larger;
+    margin-bottom: 10%;
+    align-items: center;
+    
+}
+
+button{
+    color: #fbd784;
+    background-color: #0b1d26;
+}
+h1{
+    font-family: sans-serif;
 }
     
 
